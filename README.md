@@ -1,4 +1,4 @@
 # ReadMe
 ---
 
-This is repository with assignments form first lesson.
+This is repository with first lesson assignments.
